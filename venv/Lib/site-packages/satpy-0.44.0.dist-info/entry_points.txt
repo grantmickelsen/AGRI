@@ -1,0 +1,2 @@
+[console_scripts]
+satpy_retrieve_all_aux_data = satpy.aux_download:retrieve_all_cmd
